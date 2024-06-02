@@ -1,0 +1,16 @@
+/* body
+{
+    display:grid;
+    grid-template-columns:11vw 11vw 11vw;
+    grid-template-rows: 11vw 11vw 11vw;
+}
+
+.square0,.square1,.square2,.square3,.square4,
+.square5,.square6,.square7,.square8
+{
+    height:auto;
+    width: auto;
+    font-size: 11vw;
+    text-align: center;
+    justify-content: center;
+} */
